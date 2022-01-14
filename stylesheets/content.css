@@ -1,3 +1,8 @@
+body {
+  -webkit-font-smothing: antialiased;
+  -moz-osx-font-smothing: grayscale;
+  font-family: 'PT Sans', serif;
+}
 h3 {
   font-size: 14px;
 }
