@@ -6,12 +6,19 @@ body {
   background-color: #345612;
   color: #fff;
 }
+
 h3 {
   font-size: 14px;
 }
+
 .sas {
   color: #ccc;
 }
+
 #svetred {
   color: red;
+}
+
+.ima {
+height: 200px; 
 }
